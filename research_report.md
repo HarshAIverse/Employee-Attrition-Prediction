@@ -21,7 +21,7 @@ We benchmarked:
 - Gradient Boosting
 - XGBoost
 
-**Conclusion**: XGBoost and Random Forest architectures proved most robust, yielding the highest F1 Scores without sacrificing Recall. A false positive (flagging a safe employee as an attrition risk) is a far better business outcome than a false negative (failing to flag someone who resigns).
+**Conclusion**: Logistic Regression proved most robust, yielding the highest F1 Score (0.4961) without sacrificing Recall. A false positive (flagging a safe employee as an attrition risk) is a far better business outcome than a false negative (failing to flag someone who resigns).
 
 ## ROI and Recommendations
 Implementing the Attrition Risk Engine Dashboard allows HR Business Partners to:

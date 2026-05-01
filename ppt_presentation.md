@@ -22,7 +22,7 @@
 **Predictive Attrition & Risk Scoring Engine**
 - **Data Integration**: Combines Overtime, Salary, Manager Relationships, and Work-Life balance.
 - **Smart Features**: Engineered metrics like the *Manager Relationship Score* and *Income-to-Experience Ratio*.
-- **Machine Learning**: Uses highly tuned XGBoost models connected with Synthethic Minority Over-sampling Technique (SMOTE).
+- **Machine Learning**: Uses highly tuned Logistic Regression models connected with Synthethic Minority Over-sampling Technique (SMOTE).
 
 ---
 

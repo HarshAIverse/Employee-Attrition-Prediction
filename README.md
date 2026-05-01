@@ -5,10 +5,9 @@
 An enterprise-grade, Full-Stack Machine Learning System designed to proactively predict employee turnover, generate detailed risk profiles, and empower HR teams with data-driven retention capabilities.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.31.1-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.2-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-1785F8.svg?style=for-the-badge)](https://xgboost.ai/)
-[![Plotly](https://img.shields.io/badge/Plotly-Dynamic_Charts-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-latest-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-latest-1785F8.svg?style=for-the-badge)](https://xgboost.ai/)[![Plotly](https://img.shields.io/badge/Plotly-Dynamic_Charts-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
 </div>
 
