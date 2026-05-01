@@ -8,3 +8,5 @@ venv/
 .env
 .venv
 *.pkl
+!best_model.pkl
+!feature_meta.pkl
